@@ -1,0 +1,17 @@
+2026-04-10 19:43:24,283 - INFO - Started Running Function : unpickle_file
+2026-04-10 19:43:24,284 - INFO - Unpickling Machine Learning Model
+2026-04-10 19:43:24,304 - INFO - Successfully Unpickled models/RFmodel.pkl
+2026-04-10 19:43:24,305 - INFO - Finished Running Function : unpickle_file
+2026-04-10 19:43:24,306 - INFO - Started Running Function : unpickle_file
+2026-04-10 19:43:24,306 - INFO - Unpickling Scaler
+2026-04-10 19:43:24,307 - INFO - Successfully Unpickled models/sc.pkl
+2026-04-10 19:43:24,307 - INFO - Finished Running Function : unpickle_file
+2026-04-10 19:43:24,333 - INFO - Started Running Function : transform_inputs
+2026-04-10 19:43:24,333 - INFO - Starting Transformation of Inputs
+2026-04-10 19:43:24,335 - INFO - Finished Transformations
+2026-04-10 19:43:24,335 - INFO - Finished Running Function : transform_inputs
+2026-04-10 19:43:24,335 - INFO - Started Running Function : predict_eligibility
+2026-04-10 19:43:24,335 - INFO - Prediction Started
+2026-04-10 19:43:24,371 - INFO - Prediction Finished
+2026-04-10 19:43:24,371 - INFO - Finished Running Function : predict_eligibility
+2026-04-10 19:43:24,374 - INFO - Sorry, you are not eligible for the loan.
